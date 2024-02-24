@@ -15,7 +15,7 @@ const Members = () => {
             <select className='dropBatch' onChange={(e) => { setBatch(e.target.value) }} name="year">
                 <option value={'2024'}>4th Year</option>
                 <option value={'2025'}>3rd Year</option>
-                <option value={'2026'}>2rd Year</option>
+                <option value={'2026'}>2nd Year</option>
                 <option value={'2080'}>Faculty</option>
                 <option value={'1'}>Alumni</option>
             </select>
