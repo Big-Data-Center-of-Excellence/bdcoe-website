@@ -27,7 +27,7 @@ function Navbar() {
           <a onClick={showNavbar} href="/#domains"><span>Domains</span></a>
           <Link onClick={showNavbar} to="/team"><span>Team</span></Link>
           <a onClick={showNavbar} href="/#contact"><span>Contact Us</span></a>
-          <a onClick={showNavbar} href="/achievements"><span>Achievemements</span></a>
+          <a onClick={showNavbar} href="/achievements"><span>Achievements</span></a>
 
         </span>
 

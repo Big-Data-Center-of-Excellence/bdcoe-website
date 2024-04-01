@@ -37,7 +37,7 @@ function Achievements() {
       </div>
         <ul className='list-disc'>
           <li >Our team proudly boasts three winners and over five finalists in the prestigious Smart India Hackathon (SIH).</li>
-          <li >Our 4th year co-ordinators Prateek chaurasia and their teams  for winning  of Smart India Hackathon 2022.</li>
+          <li >Our 4th year co-ordinators Prateek Chaurasia and their teams  for winning  of Smart India Hackathon 2022.</li>
           <li >Our 4th year co-ordinators Sankalp Srivastava and their teams  for winning  of Smart India Hackathon 2022.</li>
           <li >Our 3rd-year coordinators, Harsh Sharma and Tarun Lalwani, alongside Manya Singhal,  2nd-year member, and their team 'Saksham', for the exceptional performance at Anveshna. </li>
           <li >Our team member, Krish Kumar, a second-year student, emerged victorious in a hackathon held in Jodhpur.</li>
