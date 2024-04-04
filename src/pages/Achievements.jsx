@@ -40,7 +40,7 @@ function Achievements() {
           <img src={zonals} alt="" className=' img1'/>
          <div className='cnt'>
          <p className='labels'>Winner: AKTU Zonals 2022</p>
-         <p className='text'>Our 3rd-year coordinator, Abhishek Gupta, along with his teammate Bhavya Agrawal, has secured the 2nd rank in the AKTU Zonals event Game of Codes.</p>
+         <p className='text'>Our 4th-year coordinator, Abhishek Gupta, along with his teammate Bhavya Agrawal, has secured the 2nd rank in the AKTU Zonals event Game of Codes.</p>
          </div>
          </div>
          <div className='sub-parent '>
@@ -61,14 +61,14 @@ function Achievements() {
           <img src={Jodhpur} alt="" className='img1'/>
          <div className='cnt'>
           <p className='labels'>Winner: Prometeo 2024</p>
-         <p className='text' > "Our 2nd-year, Krish Kumar, and his team, Team !404: Coding Triumph, emerged victorious in the Prometeo Hackathon held at IIT Jodhpur.</p>
+         <p className='text' > Our 2nd-year member, Krish Kumar, and his team, Team !404: Coding Triumph, emerged victorious in the Prometeo Hackathon held at IIT Jodhpur.</p>
          </div>
          </div>
          <div className='sub-parent '>
          <img src={rise} alt=""  className='img1' />
          <div className='cnt'>
          <p className='labels'>Winner:  RIISE 2024</p>
-         <p className='text'>Our 3rd-year coordinators, Harsh Sharma, Tarun Lalwani, and Ketan Singh, along with their team Saksham, have secured the first position in RIISE, organized by Indraprastha IIT Delhi.</p>
+         <p className='text'>Our 3rd-year coordinators, Harsh Sharma, Tarun Lalwani, and Ketan Singh, along with their team Saksham, have secured the first position in RIISE, organized by Indraprastha IIIT Delhi.</p>
          <p></p>
          </div>
          </div>
