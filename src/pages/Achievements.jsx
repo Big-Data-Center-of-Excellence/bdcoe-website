@@ -106,7 +106,7 @@ function Achievements() {
          <div className='sub-parent '>
          <img src={innohacks} alt=""  className='img1' />
         <div className='cnt'>
-        <p className='labels'>Finalist: Innohacks 2024</p>
+        <p className='labels'>Finalist: Innohacks 2023</p>
         <p className='text'>Our 3rd-year coordinator, Atishay Jain, and his team TECH-BELLATORS, have performed exceptionally well in Innohacks organized by KIET.</p>
         </div>
          </div>
