@@ -93,7 +93,7 @@ function Achievements() {
           <img src={finalist} alt="" className=' img1'/>
          <div className='cnt'>
           <p className='labels'>Finalist : SIH 2023</p>
-         <p className='text'> Our 4th-year coordinator, Sankalp Srivastava, and his team Anthracite 2.0, have earned a spot in finals of the Smart India Hackathon 2023</p>
+         <p className='text'> Our 4th-year coordinator, Sankalp Srivastava, and his team Anthracite 2.0, have earned a spot in finals of the Smart India Hackathon 2023.</p>
          </div>
          </div>
          <div className='sub-parent'>
