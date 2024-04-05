@@ -12,7 +12,7 @@ const Footer = () => {
                         <div className="content">
                             <h1><span> Big Data </span> - Centre Of Excellence</h1>
                             <br />
-                            <p className='cnt'>
+                            <p className='cntfooter'>
                                 At Big Data Centre of Excellence, we believe that collaboration and teamwork are key to success. Our mission is to help students gain knowledge on Big Data technologies and concepts to leverage their potential and achieve success in their respective fields. Besides making serious endeavors to spread knowledge on Big Data, we stand by the stuble acronym of TEAM - "Together Everyone Achieves More".
                             </p>
                         </div>
