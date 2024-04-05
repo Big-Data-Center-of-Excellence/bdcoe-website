@@ -1,3 +1,5 @@
+
+
 .heading{
     color: #000;
     font-size: 50px;
@@ -34,7 +36,7 @@
    .img1{
     width:95%;
     height: 220px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.8);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     }
 
@@ -52,7 +54,7 @@
   border-radius: 10px;
   color: #fff;
   background-color: rgba(0, 0, 0, 0.1);
-  width: 78%;
+  width: 90%;
   text-align: start;
   animation: slideFromBottom 0.5s ease forwards; /* Apply animation */
 }
@@ -81,7 +83,7 @@
 }
 .text{
   margin-top:4px;
-  font-size: 10px;
+  font-size: 15px;
  
 
 }
@@ -126,6 +128,10 @@
       width:450px;
       
     }
+    .cnt{
+      width:70%;
+    }
+   
     
    }
    @media (min-width: 1500px) {
@@ -138,11 +144,12 @@
       width:560px;
       
     }
+    
     .labels{
-      font-size: 37px;
+      font-size: 26px;
     }
     .text{
-      font-size: 26px;
+      font-size: 20px;
     }
     
    }
@@ -157,11 +164,11 @@
       width:800px;
 
     }
-    .cnt{
-      font-size:38px;
+    .labels{
+      font-size:40px;
     }
     .text{
-      font-size: 29px;
+      font-size: 35px;
     }
    }
 
@@ -179,12 +186,16 @@
       border-radius: 4px;
       
     }
+    .cnt{
+      width:90%;
+    }
+    
     .labels{
-      font-size: 20px;
+      font-size: 17px;
     }
     .text{
       
-      font-size:10px;
+      font-size:12px;
     }
     
   
