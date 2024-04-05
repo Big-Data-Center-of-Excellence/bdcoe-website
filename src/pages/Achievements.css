@@ -38,6 +38,10 @@
     border-radius: 10px;
     }
 
+    .img2{
+      object-fit: cover;
+    }
+
 .cnt {
   display:none;
   position: absolute;
