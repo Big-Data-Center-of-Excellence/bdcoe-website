@@ -21,7 +21,7 @@ const Events = () => {
                 setisLoading(false)
             }
         })()
-    }, [])
+    }, [URL])
     return <>
         <Navbar />
         <section id="events">
