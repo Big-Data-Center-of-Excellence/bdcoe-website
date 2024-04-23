@@ -9,7 +9,7 @@ const EventReport = () => {
   const [data, setData] = useState([]);
   const { code } = useParams();
   useEffect(() => {
-    fetch(`https://bdcoe.onrender.com/api/v1/event/${code}`)
+    fetch(`${process.env.REACT_APP_BASE_URL}/api/v1/event/${code}`)
       .then((res) => res.json())
       .then((res) => {
         setData(res.data);

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import Card from './card'
 import axios from 'axios'
 import './album.css'
-const baseURL = "https://bdcoe.onrender.com/api/v1/member"
+const baseURL = `${process.env.REACT_APP_BASE_URL}/api/v1/member`
 const Album = ({ batch }) => {
     const [value, setValue] = useState()
     const [isLoading, setisLoading] = useState(true);

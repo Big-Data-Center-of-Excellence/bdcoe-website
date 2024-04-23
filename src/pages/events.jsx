@@ -4,9 +4,10 @@ import Footer from "../components/footer/footer.jsx";
 import Navbar from "../components/navbar/navbar";
 import axios from "axios"
 import './events.css'
-
+// require('dotenv').config()
+// console.log(process.env.REACT_APP_BASE_URL)
 const Events = () => {
-    const URL = "https://bdcoe.onrender.com/api/v1/event"
+    const URL = `${process.env.REACT_APP_BASE_URL}/api/v1/event`
     const [isLoading, setisLoading] = useState(true);
     const [data, setData] = useState([])
     useEffect(() => {
