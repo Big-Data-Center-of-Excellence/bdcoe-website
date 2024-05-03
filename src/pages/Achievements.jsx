@@ -11,6 +11,7 @@ import zonals from '../assets/images/zonals.jpg';
 import anveshna from '../assets/images/anveshna.jpg';
 import Kavach from '../assets/images/Kavach.jpeg';
 import Jodhpur from '../assets/images/Jodhpur.jpg'
+import Conclave from '../assets/images/Conclave.jpeg'
 import Footer from '../components/footer/footer';
 import './Achievements.css';
 
@@ -116,6 +117,13 @@ function Achievements() {
         <div className='cnt'>
         <p className='labels'>Finalist: Kavach 2023</p>
         <p className='text'>Our 4th year coordinators, Prateek Chaurasia, Abhishek Gupta, Anshika Agarwal and their team PROXYMORONS were selected as finalist in Kavach.</p>
+        </div>
+         </div>
+         <div className='sub-parent '>
+         <img src={Conclave} alt=""  className='img1' />
+        <div className='cnt'>
+        <p className='labels'>Winner: Annual Startup Conclave 2024</p>
+        <p className='text'>Our 3rd year coordinators,Tarun Lalwani and Harsh Sharma were selected as winners in Annual Startup Conclave hosted by Idea Lab.</p>
         </div>
          </div>
         
