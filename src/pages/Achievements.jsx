@@ -13,6 +13,7 @@ import Kavach from '../assets/images/Kavach.jpeg';
 import Jodhpur from '../assets/images/Jodhpur.jpg'
 import Conclave from '../assets/images/Conclave.jpeg'
 import Conclave_1 from '../assets/images/Conclave_1.jpeg'
+import Conclave_2 from '../assets/images/Conclave_2.jpeg'
 import Footer from '../components/footer/footer';
 import './Achievements.css';
 
@@ -132,6 +133,13 @@ function Achievements() {
         <div className='cnt'>
         <p className='labels'>Finalist : Annual Startup Conclave 2024</p>
         <p className='text'>Our 3rd year coordinator, Atishay Jain was selected as finalist in Annual Startup Conclave hosted by Idea Lab.</p>
+        </div>
+         </div>
+         <div className='sub-parent '>
+         <img src={Conclave_2} alt=""  className='img1' />
+        <div className='cnt'>
+        <p className='labels'>Finalist : Annual Startup Conclave 2024</p>
+        <p className='text'>Our 3rd year coordinator, Ketan Singh was selected as finalist in Annual Startup Conclave hosted by Idea Lab.</p>
         </div>
          </div>
          
