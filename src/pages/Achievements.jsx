@@ -74,6 +74,13 @@ function Achievements() {
          <p></p>
          </div>
          </div>
+         <div className='sub-parent '>
+         <img src={Conclave} alt=""  className='img1' />
+        <div className='cnt'>
+        <p className='labels'>Winner: Annual Startup Conclave 2024</p>
+        <p className='text'>Our 3rd year coordinators,Tarun Lalwani and Harsh Sharma were selected as winners in Annual Startup Conclave hosted by Idea Lab.</p>
+        </div>
+         </div>
          <div className='sub-parent'>
           <img src={africa} alt="" className=' img1'/>
          <div className='cnt'>
@@ -119,13 +126,7 @@ function Achievements() {
         <p className='text'>Our 4th year coordinators, Prateek Chaurasia, Abhishek Gupta, Anshika Agarwal and their team PROXYMORONS were selected as finalist in Kavach.</p>
         </div>
          </div>
-         <div className='sub-parent '>
-         <img src={Conclave} alt=""  className='img1' />
-        <div className='cnt'>
-        <p className='labels'>Winner: Annual Startup Conclave 2024</p>
-        <p className='text'>Our 3rd year coordinators,Tarun Lalwani and Harsh Sharma were selected as winners in Annual Startup Conclave hosted by Idea Lab.</p>
-        </div>
-         </div>
+         
         
         
          </div>
