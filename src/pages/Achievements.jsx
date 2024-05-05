@@ -139,14 +139,14 @@ function Achievements() {
          <img src={Conclave_1} alt=""  className='img1' />
         <div className='cnt'>
         <p className='labels'>Finalist: Annual Startup Conclave 2024</p>
-        <p className='text'>Our 3rd year coordinator, Atishay Jain was selected as finalist in Annual Startup Conclave hosted by Idea Lab.</p>
+        <p className='text'>Our 3rd year coordinator, Atishay Jain and his team was selected as finalist in Annual Startup Conclave hosted by Idea Lab.</p>
         </div>
          </div>
          <div className='sub-parent '>
          <img src={Conclave_2} alt=""  className='img1' />
         <div className='cnt'>
         <p className='labels'>Finalist: Annual Startup Conclave 2024</p>
-        <p className='text'>Our 3rd year coordinator, Ketan Singh was selected as finalist in Annual Startup Conclave hosted by Idea Lab.</p>
+        <p className='text'>Our 3rd year coordinator, Ketan Singh and his team was selected as finalist in Annual Startup Conclave hosted by Idea Lab.</p>
         </div>
          </div>
          
