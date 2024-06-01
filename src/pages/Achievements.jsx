@@ -15,6 +15,7 @@ import Conclave from '../assets/images/Conclave.jpeg'
 import Conclave_1 from '../assets/images/Conclave_1.jpeg'
 import Conclave_2 from '../assets/images/Conclave_2.jpeg'
 import Afcat_entry from '../assets/images/Afcat_entry.jpeg'
+import IIT from '../assets/images/iit.jpeg'
 import Footer from '../components/footer/footer';
 import './Achievements.css';
 
@@ -59,6 +60,13 @@ function Achievements() {
         <div className='cnt'>
         <p className='labels'>Winner: SIH 2023</p>
         <p className='text'>Our 3rd year coordinator, Anugya Tiwari and her team Technovertz have clinched first position in Smart India Hackathon 2023!</p>
+        </div>
+         </div>
+         <div className='sub-parent '>
+         <img src={IIT} alt=""  className='img1' />
+        <div className='cnt'>
+        <p className='labels'>Winner: PROD-G 2024</p>
+        <p className='text'>Our 4th year coordinator,Atishay Jain and his team Bellators have clinched first position in PROD-G held at IIT Roorkee.</p>
         </div>
          </div>
          <div className='sub-parent '>
