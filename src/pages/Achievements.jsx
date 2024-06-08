@@ -66,7 +66,7 @@ function Achievements() {
          <img src={IIT} alt=""  className='img1' />
         <div className='cnt'>
         <p className='labels'>Winner: PROD-G 2024</p>
-        <p className='text'>Our 4th year coordinator,Atishay Jain and his team Bellators have clinched first position in PROD-G held at IIT Roorkee.</p>
+        <p className='text'>Our 3rd year coordinator,Atishay Jain and his team Tech Bellators have clinched first position in PROD-G held at IIT Roorkee.</p>
         </div>
          </div>
          <div className='sub-parent '>
@@ -157,10 +157,7 @@ function Achievements() {
         <p className='text'>Our 3rd year coordinator, Ketan Singh and his team was selected as finalist in Annual Startup Conclave hosted by Idea Lab.</p>
         </div>
          </div>
-         
-        
-        
-         </div>
+        </div>
         </div>
        <Footer/>
       </div>
