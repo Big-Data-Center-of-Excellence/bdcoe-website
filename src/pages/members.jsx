@@ -5,7 +5,7 @@ import './members.css'
 import FacultyCards from '../components/members/FacultyCards'
 import Navbar from '../components/navbar/navbar'
 const Members = () => {
-    const [batch, setBatch] = useState('2024');
+    const [batch, setBatch] = useState('2025');
     return <>
         <Navbar />
         <div className='members'>
@@ -13,9 +13,9 @@ const Members = () => {
                 <h1>Our Team</h1>
             </header>
             <select className='dropBatch' onChange={(e) => { setBatch(e.target.value) }} name="year">
-                <option value={'2024'}>4th Year</option>
-                <option value={'2025'}>3rd Year</option>
-                <option value={'2026'}>2nd Year</option>
+                <option value={'2025'}>4th Year</option>
+                <option value={'2026'}>3rd Year</option>
+                {/* <option value={'2027'}>2nd Year</option> */}
                 <option value={'2080'}>Faculty</option>
                 <option value={'1'}>Alumni</option>
             </select>

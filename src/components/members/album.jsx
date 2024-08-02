@@ -37,7 +37,7 @@ const Album = ({ batch }) => {
                     :
                     value.data
                         .filter(prop =>
-                            String(prop.graduation < 2024 ? String(1) : String(prop.graduation)) === String(batch))
+                            String(prop.graduation < 2025 ? String(1) : String(prop.graduation)) === String(batch))
                         .map((i) =>
                             <Card
                                 key={i._id}
