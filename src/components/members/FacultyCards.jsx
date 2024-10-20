@@ -38,19 +38,19 @@ function FacultyCards() {
       </div>
 
 
-      {/* <div className='child-album' style={{ paddingBottom: "1em" }}>
+      <div className='child-album' style={{ paddingBottom: "1em" }}>
         <img
           className='background-card'
           src={cardBackground}
           alt="back"
         />
         <img className='overlay'
-          src=""
+          src="https://ucarecdn.com/599d1a82-3ca2-4426-bd09-3d01f0625ef6/-/preview/311x376/"
           alt='bdcoe'
         />
         <h3 style={{ paddingBottom: "1em" }}>Mr. Ropak</h3>
         <h4>Assistant Professor</h4>
-      </div> */}
+      </div> 
 
     </div>
   )
