@@ -17,7 +17,7 @@ import Conclave_2 from '../assets/images/Conclave_2.jpeg'
 import Afcat_entry from '../assets/images/Afcat_entry.jpeg'
 import IIT from '../assets/images/iit.jpeg'
 import Footer from '../components/footer/footer';
-import NSUT from '../assets/images/krish sir ach.jpeg'
+import NSUT from '../assets/images/krish sir ach-1.jpeg'
 import './Achievements.css';
 
 function Achievements() {
