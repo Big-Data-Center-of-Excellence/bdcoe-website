@@ -17,6 +17,7 @@ import Conclave_2 from '../assets/images/Conclave_2.jpeg'
 import Afcat_entry from '../assets/images/Afcat_entry.jpeg'
 import IIT from '../assets/images/iit.jpeg'
 import Footer from '../components/footer/footer';
+import NSUT from '../assets/images/krish sir ach-1.jpeg'
 import './Achievements.css';
 
 function Achievements() {
@@ -156,6 +157,15 @@ function Achievements() {
         <p className='labels'>Finalist: Annual Startup Conclave 2024</p>
         <p className='text'>Our 3rd year coordinator, Ketan Singh and his team was selected as finalist in Annual Startup Conclave hosted by Idea Lab.</p>
         </div>
+         </div>
+         <div className='sub-parent '>
+         <img src={NSUT} alt=""  className='img1' />
+        <div className='cnt'>
+        <p className='labels'>Winner: Spacecon'25</p>
+        <p className='text'>Our 3rd year coordinator, Krish Kumar and his team syntaxerror secured the top position in Spacecon'25 held at NSUT, New Delhi.</p>
+        </div>
+         </div>
+         <div className='sub-parent '>
          </div>
         </div>
         </div>
