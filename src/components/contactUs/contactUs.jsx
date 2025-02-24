@@ -23,11 +23,11 @@ const ContactUs = () => {
       [name]: value
     })
   }
-
+  
   const handleSubmit = (e) => {
     e.preventDefault();
     captchaRef.current.reset();
-    axios.post('https://bdcoe.onrender.com/api/v1/contact', {
+    axios.post(`${process.env.REACT_APP_BASE_URL}/api/v1/contact`, {
       ...user,
       'g-recaptcha-response': recaptchaValue
     }).then((res) => {
