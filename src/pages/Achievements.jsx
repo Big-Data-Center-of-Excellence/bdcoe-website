@@ -18,6 +18,10 @@ import Afcat_entry from '../assets/images/Afcat_entry.jpeg'
 import IIT from '../assets/images/iit.jpeg'
 import Footer from '../components/footer/footer';
 import NSUT from '../assets/images/krish sir ach-1.jpeg'
+import Reasearch from '../assets/images/atishay sir.jpeg'
+import Ises from "../assets/images/ises delhi.jpeg"
+import goa from '../assets/images/goa.jpeg'
+import Sih from '../assets/images/sih.jpeg'
 import './Achievements.css';
 
 function Achievements() {
@@ -162,11 +166,42 @@ function Achievements() {
          <img src={NSUT} alt=""  className='img1' />
         <div className='cnt'>
         <p className='labels'>Winner: Spacecon'25</p>
-        <p className='text'>Our 3rd year coordinator, Krish Kumar and his team syntaxerror secured the top position in Spacecon'25 held at NSUT, New Delhi.</p>
+        <p className='text'>Our 3rd year coordinator, Krish Kumar and his team syntaxterror secured the top position in Spacecon'25 held at NSUT, New Delhi.</p>
         </div>
          </div>
          <div className='sub-parent '>
+         <img src={Reasearch} alt=""  className='img3' />
+        <div className='cnt'>
+        <p className='labels'>Presenter at ICME&T 2025</p>
+        <p className='text'>Our 4th-year member, Atishay Jain, presented a research paper titled "Revolutionizing UPI with Advanced Biometric Authentication for Blind and Visually Impaired Users" at the 8th International Conference.</p>
+        </div>
          </div>
+         <div className='sub-parent '>
+         <img src={Ises} alt=""  className='img1' />
+        <div className='cnt'>
+        <p className='labels'>Winners: IEEE ISES Design Contest</p>
+        <p className='text'>Our 4th-year member,  Harsh Sharma, Tarun Lalwani, and Ketan Singh, secured first prize in the Design Contest held by STMicroelectronics at the IEEE ISES International Conference.</p>
+        </div>
+         </div>
+         <div className='sub-parent '>
+         <img src={goa} alt=""  className='img1' />
+        <div className='cnt'>
+        <p className='labels'>Winners: Best DAPP on Polygon Track</p>
+        <p className='text'>Our 4th-year members Harsh Sharma, Tarun Lalwani, and Ketan Singh, with their team Saksham, won the Best DAPP title at the Hacker House Goa Hackathon.</p>
+        </div>
+         </div>
+         <div className='sub-parent '>
+         <img src={Sih} alt=""  className='img1' />
+        <div className='cnt'>
+        <p className='labels'>Finalist: SIH 2024</p>
+        <p className='text'>Our 3rd-year members, Deepak Yadav and Manya Singhal along with their team Dart Venture have earned a spot in finals of the Smart India Hackathon.</p>
+        </div>
+         </div>
+         <div className='sub-parent '>
+         
+         </div>
+
+
         </div>
         </div>
        <Footer/>
